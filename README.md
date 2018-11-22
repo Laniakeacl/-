@@ -1,1 +1,1 @@
-httP://www.baidu.com
+http://www.baidu.com
